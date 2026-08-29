@@ -19,7 +19,7 @@ int main()
     while(true)
     {
         int ch;
-        cout<<"Enter the choice given by the user:"<<endl;
+        cout<<"Ent er the choice given by the user:"<<endl;
         cout<<"1.Display the number"<<endl;
         cout<<"2.Find Minimum"<<endl;
         cout<<"3.Find Maximum"<<endl;
